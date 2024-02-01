@@ -15,7 +15,7 @@ GitHub Repo Link:
 
 https://github.com/brendaleea/E-Commerce-Backend
 
-Video Link : coming soon
+Video Link : https://drive.google.com/file/d/1v4gr4_KSFthSBWIUq-7BihstN_1sTCgH/view
 
 
 
