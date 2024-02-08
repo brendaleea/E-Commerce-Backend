@@ -41,7 +41,7 @@ Product.init(
     // category id, allow null values, foriegn key category id from category model.
     category_id: {
       type: DataTypes.INTEGER,
-      allowNull: false,
+      allowNull: true,
       reference:{
         model: 'category',
         key: 'id'
