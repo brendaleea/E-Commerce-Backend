@@ -10,12 +10,12 @@ This Challenge is to build the back end for an e-commerce site by configuring a 
 
 ## Visuals
 
-![E-Commerce-Backend](.)
-GitHub Repo Link:
+![E-Commerce-Backend](./Assets/screenshot.png)
 
-https://github.com/brendaleea/E-Commerce-Backend
 
-Video Link : https://drive.google.com/file/d/1v4gr4_KSFthSBWIUq-7BihstN_1sTCgH/view
+GitHub Repo Link: https://github.com/brendaleea/E-Commerce-Backend
+
+Video Link : https://drive.google.com/file/d/1kiPbBS7Kx0NAV3qLsjfL-eQiWnVD21_J/view
 
 
 
