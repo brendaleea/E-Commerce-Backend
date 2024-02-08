@@ -23,6 +23,14 @@ Video Link : https://drive.google.com/file/d/1v4gr4_KSFthSBWIUq-7BihstN_1sTCgH/v
 ## Installation
 This project was created using JS,Express.js API, Inquirer, and MySQL
 
+## Install instructions & Steps
+1. npm i
+2. mysql -u root -p
+3. source db/schema.sql
+4. exit
+5. npm run seed
+6. npm start
+
 
 ## Support
 If you have any questions please feel free to contact me via slack 
